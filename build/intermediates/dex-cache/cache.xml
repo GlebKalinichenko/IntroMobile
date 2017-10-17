@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.1_58d06acbdcf68668b083ba603cf2f5216b003a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_104990d071584e89fbff8d4e0808af22d4e27edd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_2d331d9b78e9e9cb7b8fd80ebbd4db2a875fcdf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_bd5d27243b719b28c6cdedd4153537d30f0deeed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/okio-1.8.0_b91b5c168275436a4b0be9d2a4a23c582849be1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_0d16b239f7a25180bbecdfaa51f7b65be9a0a405.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_b76422dc4c9eeea3ed71e6472fa9000c192bf90f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_60e767d84bcdae9968dc7de83e61fd9672c36e49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_2de6b24d19f15aa18b8b96ad9e245fb6a98496d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a8014d3442990a28d40283cdfe15318d18c9e9f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4dcecbbc3540b4383d35c71ee7f77a6a62d785a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_527f85fd48e616f0ddad6429c519e306e7012cf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.8.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.8.1_da958ecad89d712f5aeafafa9d1fe9917b652f21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/gson-2.7_2a39fa904ed19d5c1b420617c410dedc08c34bae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_0b57f0f640590422bcf205d65460d42187a1f93b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.0_f2186a4bca9993519b083ba1ced8303983092053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_056b335a164bf8663877785af43c5e500e2fc02d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_f476012e8bc490202e6653dee48a884144a85b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_a504624a37fd4681e3c3fa6831fd85c53905e64f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_32159ed30635b60514a5ee5e8d5f508a18a07dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_6f3d46a2c6af87bd7828da162804edf0b12fd75d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_f8b28a4d635ded7a020db67ff99c188d2d336493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.8.1_8c0d841d8b3476ff38a22335cd2339491d747134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2db0404706ad6498ab1de3e339c671293f520eea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_61a1c46db6afad5e1806f4ec6aa82a9dc3332350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/glebkalinichenko/get-started-with-retrofit-2-http-client/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_0f2bc61daa77ea1cc72a2ed22ce951e0ecfd7a58.jar" />
+    </item>
+
+</items>
